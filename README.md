@@ -6,7 +6,8 @@
 
 Aquí está el logo de la aplicación:
 
-![Logo del Proyecto](./Calculadora/calcu1.JPG)
+![Logo del Proyecto](https://github.com/Denis-Otoniel-123/Calculadora/blob/main/Calculadora/calculadora.JPG)
+![Logo del Proyecto](https://github.com/Denis-Otoniel-123/Calculadora/blob/main/Calculadora/calculadora2.JPG)
 
 ## Descripción
 
